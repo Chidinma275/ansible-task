@@ -5,3 +5,8 @@ Host an index.php file with the following content, as the main file on the serve
 
 
 Submit the Ansible playbook![ansible playbook](https://user-images.githubusercontent.com/104599818/198734548-be99f10d-0c5f-4238-abea-c85ff02d0797.png)
+
+
+output of systemctl status apache2 after deploying the playbook![ansible 2](https://user-images.githubusercontent.com/104599818/198734878-a84af345-ebc4-4db2-bc0d-a08843d61945.png)
+
+
