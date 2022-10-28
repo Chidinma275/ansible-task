@@ -9,4 +9,6 @@ Submit the Ansible playbook![ansible playbook](https://user-images.githubusercon
 
 output of systemctl status apache2 after deploying the playbook![ansible 2](https://user-images.githubusercontent.com/104599818/198734878-a84af345-ebc4-4db2-bc0d-a08843d61945.png)
 
+screenshot of the rendered page
 
+![Screenshot 2022-10-28 223218](https://user-images.githubusercontent.com/104599818/198736527-2d110016-d0b0-4370-8259-6b35213e1475.png)
